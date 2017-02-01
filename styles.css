@@ -3,6 +3,7 @@ body {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  color: rgb(220,220,220);
   }
 
 .thumbnail-pic {
@@ -36,10 +37,6 @@ body {
   margin-top: 20px;
 }
 
-.btn {
-  background-color: #535e70
-}
-
 .icon {
   color: rgb(220,220,220);
   text-decoration: none;
@@ -55,4 +52,14 @@ body {
   color: white;
   margin-left: 10px;
   cursor: pointer;
+}
+
+p {
+  margin-top: 10px;
+}
+
+img {
+width: 12em;
+height: 10em;
+border-radius: 10px;
 }

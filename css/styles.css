@@ -58,6 +58,10 @@ img {
   cursor: pointer;
 }
 
+.col-sm-4 {
+  margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
 
 #thumbnail {
   margin-top: 20px;
